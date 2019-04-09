@@ -7,3 +7,12 @@ C:\Users\DatabaseLab\Desktop\MY\Sounds_Packing\Sounds_Packing\obj\Debug\Sounds_P
 C:\Users\DatabaseLab\Desktop\MY\Sounds_Packing\Sounds_Packing\obj\Debug\Sounds_Packing.exe
 C:\Users\DatabaseLab\Desktop\MY\Sounds_Packing\Sounds_Packing\obj\Debug\Sounds_Packing.pdb
 C:\Users\DatabaseLab\Desktop\MY\Sounds_Packing\Sounds_Packing\obj\Debug\Sounds_Packing.GUI.Sounds_Packing_Form.resources
+C:\Users\DatabaseLab\Desktop\Sounds Packing Project\Sounds_Packing\Sounds_Packing\bin\Debug\Sounds_Packing.exe.config
+C:\Users\DatabaseLab\Desktop\Sounds Packing Project\Sounds_Packing\Sounds_Packing\obj\Debug\Sounds_Packing.exe
+C:\Users\DatabaseLab\Desktop\Sounds Packing Project\Sounds_Packing\Sounds_Packing\obj\Debug\Sounds_Packing.pdb
+C:\Users\DatabaseLab\Desktop\Sounds Packing Project\Sounds_Packing\Sounds_Packing\bin\Debug\Sounds_Packing.exe
+C:\Users\DatabaseLab\Desktop\Sounds Packing Project\Sounds_Packing\Sounds_Packing\bin\Debug\Sounds_Packing.pdb
+C:\Users\DatabaseLab\Desktop\Sounds Packing Project\Sounds_Packing\Sounds_Packing\obj\Debug\Sounds_Packing.csprojResolveAssemblyReference.cache
+C:\Users\DatabaseLab\Desktop\Sounds Packing Project\Sounds_Packing\Sounds_Packing\obj\Debug\Sounds_Packing.GUI.Sounds_Packing_Form.resources
+C:\Users\DatabaseLab\Desktop\Sounds Packing Project\Sounds_Packing\Sounds_Packing\obj\Debug\Sounds_Packing.Properties.Resources.resources
+C:\Users\DatabaseLab\Desktop\Sounds Packing Project\Sounds_Packing\Sounds_Packing\obj\Debug\Sounds_Packing.csproj.GenerateResource.Cache

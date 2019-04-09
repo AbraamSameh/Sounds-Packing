@@ -228,14 +228,12 @@ namespace Sounds_Packing.GUI
         {
             Input_Folder.ShowDialog();
             Input_Path_TextBox.Text = Input_Folder.SelectedPath.ToString();
-            Input_Folder.ShowNewFolderButton = false;
         }
 
         private void Output_Path_Click(object sender, EventArgs e)
         {
             Output_Folder.ShowDialog();
             Output_Path_TextBox.Text = Output_Folder.SelectedPath.ToString();
-            Output_Folder.ShowNewFolderButton = false;
         }
 
         private void Folder_Duration_Click(object sender, EventArgs e)
@@ -248,8 +246,33 @@ namespace Sounds_Packing.GUI
             File_Type.Text = "";
         }
 
+
         #endregion
 
+        private void pictureBox4_MouseMove(object sender, MouseEventArgs e)
+        {
+            pictureBox4.Image = Properties.Resources._2;
+        }
 
+        private void pictureBox4_MouseLeave(object sender, EventArgs e)
+        {
+            pictureBox4.Image = Properties.Resources._1;
+        }
+
+        private void pictureBox5_Click(object sender, EventArgs e)
+        {
+            this.WindowState = FormWindowState.Minimized;
+        }
+
+        private void pictureBox5_MouseMove(object sender, MouseEventArgs e)
+        {
+            pictureBox5.Image = Properties.Resources._4;
+        }
+
+        private void pictureBox5_MouseLeave(object sender, EventArgs e)
+        {
+            pictureBox5.Image = Properties.Resources._3;
+
+        }
     }
 }

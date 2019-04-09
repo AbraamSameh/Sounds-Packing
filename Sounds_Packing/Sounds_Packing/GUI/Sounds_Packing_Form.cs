@@ -247,8 +247,6 @@ namespace Sounds_Packing.GUI
         }
 
 
-        #endregion
-
         private void pictureBox4_MouseMove(object sender, MouseEventArgs e)
         {
             pictureBox4.Image = Properties.Resources._2;
@@ -274,5 +272,7 @@ namespace Sounds_Packing.GUI
             pictureBox5.Image = Properties.Resources._3;
 
         }
+
+        #endregion GUI Functions
     }
 }
